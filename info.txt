@@ -1,0 +1,51 @@
+Visual Studio Code
+
+Tamy Vivas
+
+Arq. 
+Proxy.Express
+Action hero
+
+Hapi.js 8
+	-Manejo de errores
+	-Pluggins  
+Redis - bd en memoria
+mongodb atlas 
+arango / bd no relacional
+retthinkdb con go lenguaje
+
+angular-node-mongo db
+json
+
+
+Postman-aplicación
+Redis-routear peticiones, cache para guardar, clave valor
+etiqueta
+uno,desa "1235"
+uuno,prod "1234"
+
+mongo 3
+
+
+npm install save dutem
+
+node .\app.js
+sac desa
+
+
+
+console.log(process.env.NODE_ENV);
+
+
+npm install -g nodemon /////////////////
+npm star
+
+
+tamyg
+
+git push origin master
+
+
+
+
+
